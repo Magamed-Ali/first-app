@@ -1,0 +1,79 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 82px;
+    font-family: sans-serif;
+}
+.header-ul ul{
+    display: flex;
+    color: #4646c7;
+    font-size: 22px;
+
+}
+.header-ul ul li{
+    list-style-type: none;
+    padding-left: 50px;
+}
+.app{
+    padding: 0 150px 0;
+}
+.main-content{
+
+}
+.number-one{
+    text-align: center;
+    padding: 20px;
+    margin: 39px 0 12px;
+    color: #ee9602;
+    font-size: 300px;
+}
+.buttonClass{
+    text-align: center;
+}
+button{
+    padding: 10px 50px;
+    margin: 25px 50px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+.button-one{
+    background-color: #4646c7;
+}
+.button-two{
+    background-color: #ee9602;
+}
+.button-three{
+    background-color: #bfbcbc;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 200px;
+    height: 70px;
+    background-color: #f1c6a6;
+}
+.footerLogo img{
+    width: 120px;
+}
+.footeUl{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+.footeUl li{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.footerNaw{
+    display: flex;
+}
+.footerNaw p{
+    position: absolute;
+    right: 20px;
+}
